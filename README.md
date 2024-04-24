@@ -9,7 +9,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="425" src="https://w.wallhaven.cc/full/7p/wallhaven-7pqmvy.png"  />
+  <img height="400" src="https://w.wallhaven.cc/full/7p/wallhaven-7pqmvy.png"  />
 </div>
 
 ###
