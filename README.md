@@ -6,10 +6,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="400" src="https://w.wallhaven.cc/full/7p/wallhaven-7pqmvy.png"  />
+  <img height="415" src="https://w.wallhaven.cc/full/d6/wallhaven-d6qvy3.jpg"  />
 </div>
 
 ###
@@ -48,12 +46,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/channel/UCiWR0LzJiLXy0oUnAF97IYA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@Antony_by004&logo=youtube&label=Youtube&color=FF0000&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -71,5 +63,11 @@
     <img src="https://img.shields.io/static/v1?message=@Yuuta_Sc004&logo=twitter&label=Twitter&color=1DA1F2&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
