@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img width="90%" height="415" src="https://w.wallhaven.cc/full/d6/wallhaven-d6qvy3.jpg"  />
+  <img width="100%" height="450" src="https://w.wallhaven.cc/full/d6/wallhaven-d6qvy3.jpg"  />
 </div>
 
 ###
