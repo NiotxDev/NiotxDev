@@ -46,7 +46,7 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/es-419/view/dancing-oshi-no-ko-jamming-anime-dance-anime-dancing-gif-16955890367095468588"  />
+<div class="tenor-gif-embed" data-postid="16955890367095468588" data-share-method="host" data-aspect-ratio="1.12162" data-width="100%"><a href="https://tenor.com/view/dancing-oshi-no-ko-jamming-anime-dance-anime-dancing-gif-16955890367095468588">Dancing Oshi No Ko GIF</a>from <a href="https://tenor.com/search/dancing-gifs">Dancing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
@@ -71,7 +71,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/NiotxDev/NiotxDev/output/snake.svg" alt="Snake animation" />
+<!-->
 
 ###
