@@ -49,7 +49,8 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-<iframe src="https://giphy.com/embed/ASy3PKVFnk7ZK" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-ASy3PKVFnk7ZK">via GIPHY</a></p>
+
+<p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-ASy3PKVFnk7ZK">via GIPHY</a></p>
 
 ###
 
