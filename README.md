@@ -49,8 +49,9 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/40mllc.png"  />
 
-<iframe src="https://giphy.com/embed/ASy3PKVFnk7ZK" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 ###
 
 <div align="left">
